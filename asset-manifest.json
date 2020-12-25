@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kranglykjh.github.io/slide-reactjs/static/css/main.24b65dc4.chunk.css",
-    "main.js": "/kranglykjh.github.io/slide-reactjs/static/js/main.72f388e8.chunk.js",
-    "main.js.map": "/kranglykjh.github.io/slide-reactjs/static/js/main.72f388e8.chunk.js.map",
-    "runtime-main.js": "/kranglykjh.github.io/slide-reactjs/static/js/runtime-main.c3b5aae1.js",
-    "runtime-main.js.map": "/kranglykjh.github.io/slide-reactjs/static/js/runtime-main.c3b5aae1.js.map",
-    "static/js/2.a8e37aac.chunk.js": "/kranglykjh.github.io/slide-reactjs/static/js/2.a8e37aac.chunk.js",
-    "static/js/2.a8e37aac.chunk.js.map": "/kranglykjh.github.io/slide-reactjs/static/js/2.a8e37aac.chunk.js.map",
-    "static/js/3.81ef9faa.chunk.js": "/kranglykjh.github.io/slide-reactjs/static/js/3.81ef9faa.chunk.js",
-    "static/js/3.81ef9faa.chunk.js.map": "/kranglykjh.github.io/slide-reactjs/static/js/3.81ef9faa.chunk.js.map",
-    "index.html": "/kranglykjh.github.io/slide-reactjs/index.html",
-    "static/css/main.24b65dc4.chunk.css.map": "/kranglykjh.github.io/slide-reactjs/static/css/main.24b65dc4.chunk.css.map",
-    "static/js/2.a8e37aac.chunk.js.LICENSE.txt": "/kranglykjh.github.io/slide-reactjs/static/js/2.a8e37aac.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/kranglykjh.github.io/slide-reactjs/static/media/sky4.3d140d7f.jpg"
+    "main.css": "/slide-reactjs/static/css/main.eb54fff6.chunk.css",
+    "main.js": "/slide-reactjs/static/js/main.72f388e8.chunk.js",
+    "main.js.map": "/slide-reactjs/static/js/main.72f388e8.chunk.js.map",
+    "runtime-main.js": "/slide-reactjs/static/js/runtime-main.c9e77f2b.js",
+    "runtime-main.js.map": "/slide-reactjs/static/js/runtime-main.c9e77f2b.js.map",
+    "static/js/2.a8e37aac.chunk.js": "/slide-reactjs/static/js/2.a8e37aac.chunk.js",
+    "static/js/2.a8e37aac.chunk.js.map": "/slide-reactjs/static/js/2.a8e37aac.chunk.js.map",
+    "static/js/3.81ef9faa.chunk.js": "/slide-reactjs/static/js/3.81ef9faa.chunk.js",
+    "static/js/3.81ef9faa.chunk.js.map": "/slide-reactjs/static/js/3.81ef9faa.chunk.js.map",
+    "index.html": "/slide-reactjs/index.html",
+    "static/css/main.eb54fff6.chunk.css.map": "/slide-reactjs/static/css/main.eb54fff6.chunk.css.map",
+    "static/js/2.a8e37aac.chunk.js.LICENSE.txt": "/slide-reactjs/static/js/2.a8e37aac.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/slide-reactjs/static/media/sky4.3d140d7f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3b5aae1.js",
+    "static/js/runtime-main.c9e77f2b.js",
     "static/js/2.a8e37aac.chunk.js",
-    "static/css/main.24b65dc4.chunk.css",
+    "static/css/main.eb54fff6.chunk.css",
     "static/js/main.72f388e8.chunk.js"
   ]
 }
